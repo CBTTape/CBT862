@@ -1,0 +1,13 @@
+2023-08-06 08:05:31.655850 - Initialized conversion of CBT862
+2023-08-06 08:05:32.753148 - Received CBT.V505.FILE862.PDS from FILE862.XMI 
+2023-08-06 08:05:32.755722 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:05:32.756659 - Found @FILE862.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/@FILE862
+2023-08-06 08:05:32.758090 - Found DOC.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/DOC
+2023-08-06 08:05:32.759090 - Found ESPJOB.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/ESPJOB
+2023-08-06 08:05:32.760189 - Found ESPPARM.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/ESPPARM
+2023-08-06 08:05:32.761249 - Found ESPPROC.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/ESPPROC
+2023-08-06 08:05:32.761259 - Found LOADLIB.x-mp4a-latm containing audio/x-mp4a-latm, moved to PDS/LOADLIB
+2023-08-06 08:05:32.765554 - Found NETSOL.txt (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/NETSOL
+2023-08-06 08:05:32.765562 - Found REVLMOD.bin containing application/octet-stream, moved to PDS/REVLMOD
+2023-08-06 08:05:32.768795 - Found REVLMOD#.jcl (text/plain) in CBT.V505.FILE862.PDS, moved to PDS/REVLMOD#
+2023-08-06 08:05:32.768803 - Found SYSMODS.bin containing application/octet-stream, moved to PDS/SYSMODS
