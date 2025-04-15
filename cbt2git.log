@@ -1,12 +1,12 @@
-2025-04-15 06:16:37.970274 - Received CBT.V508.FILE862.PDS from FILE862.XMI 
-2025-04-15 06:16:37.971358 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:16:37.971520 - Found @FILE862.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/@FILE862
-2025-04-15 06:16:37.980822 - Found DOC.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/DOC
-2025-04-15 06:16:37.980966 - Found ESPJOB.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPJOB
-2025-04-15 06:16:37.981669 - Found ESPPARM.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPPARM
-2025-04-15 06:16:37.982613 - Found ESPPROC.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPPROC
-2025-04-15 06:16:37.987936 - Found LOADLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE862.PDS, moved to PDS/LOADLIB
-2025-04-15 06:16:37.991747 - Found NETSOL.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/NETSOL
-2025-04-15 06:16:38.029122 - Found REVLMOD.bin (application/octet-stream) in CBT.V508.FILE862.PDS, moved to PDS/REVLMOD
-2025-04-15 06:16:38.031353 - Found REVLMOD#.jcl (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/REVLMOD#
-2025-04-15 06:16:38.032628 - Found SYSMODS.bin (application/octet-stream) in CBT.V508.FILE862.PDS, moved to PDS/SYSMODS
+2025-04-16 00:55:50.929399 - Received CBT.V508.FILE862.PDS from FILE862.XMI 
+2025-04-16 00:55:50.930462 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:55:50.930548 - Found @FILE862.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/@FILE862
+2025-04-16 00:55:50.931480 - Found DOC.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/DOC
+2025-04-16 00:55:50.931646 - Found ESPJOB.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPJOB
+2025-04-16 00:55:50.932295 - Found ESPPARM.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPPARM
+2025-04-16 00:55:50.932565 - Found ESPPROC.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/ESPPROC
+2025-04-16 00:55:50.934302 - Found LOADLIB.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE862.PDS, moved to PDS/LOADLIB
+2025-04-16 00:55:50.936618 - Found NETSOL.txt (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/NETSOL
+2025-04-16 00:55:50.938344 - Found REVLMOD.bin (application/octet-stream) in CBT.V508.FILE862.PDS, moved to PDS/REVLMOD
+2025-04-16 00:55:50.938451 - Found REVLMOD#.jcl (text/plain) in CBT.V508.FILE862.PDS, moved to PDS/REVLMOD#
+2025-04-16 00:55:50.939605 - Found SYSMODS.bin (application/octet-stream) in CBT.V508.FILE862.PDS, moved to PDS/SYSMODS
